@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pim-tech
 - 👀 I’m interested in Raku, Perl, Python, and some other languages.
-- 🌱 I’m currently learning Raku.
+- 🌱 I’m currently working on Python and Raku.
 - 💞️ I’m looking to collaborate on any project about electronic my first job, or research, or any.
 - 📫 How to reach me : You may find me here and on Raku chat
 
